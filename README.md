@@ -1,4 +1,4 @@
-# 👯staff-sql-challenge
+# 👯retail_sale-sql-challenge
 
 ## 📚 Table of Contents
 - [Business task](#business-task)
